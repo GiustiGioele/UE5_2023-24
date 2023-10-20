@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Gioele/UE5_2023-24/UE_Practice/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/Gioele/UE5_2023-24/UE_Practice/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Gioele/UE5_2023-24/UE_Practice/Content/Weapons/lambert1.uasset",
+				"C:/Users/Gioele/UE5_2023-24/UE_Practice/Content/Weapons/uploads_files_3313625_M416.uasset",
+				"C:/Users/Gioele/UE5_2023-24/UE_Practice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HV/3UC2LKP7A0AIPLV05RXS29.uasset"
 			]
 		}
 	]

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE_Practice",
+			"Path": "..\\Source\\UE_Practice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE_PracticeEditor",
+			"Path": "..\\Source\\UE_PracticeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
