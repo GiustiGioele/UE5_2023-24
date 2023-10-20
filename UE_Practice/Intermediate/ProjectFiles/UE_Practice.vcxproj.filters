@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE_Practice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE_Practice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE_PracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE_Practice">
+      <UniqueIdentifier>{EDD4890A-310D-39B4-B4D4-D53BC0586D86}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE_Practice\UE_Practice.Build.cs">
+      <Filter>Source\UE_Practice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE_Practice\UE_Practice.cpp">
+      <Filter>Source\UE_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE_Practice\UE_Practice.h">
+      <Filter>Source\UE_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE_Practice\UE_PracticeCharacter.cpp">
+      <Filter>Source\UE_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE_Practice\UE_PracticeCharacter.h">
+      <Filter>Source\UE_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE_Practice\UE_PracticeGameMode.cpp">
+      <Filter>Source\UE_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE_Practice\UE_PracticeGameMode.h">
+      <Filter>Source\UE_Practice</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
