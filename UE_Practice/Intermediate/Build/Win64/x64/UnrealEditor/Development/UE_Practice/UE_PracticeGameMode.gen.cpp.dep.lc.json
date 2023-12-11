@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gioele\\ue5_2023-24\\ue_practice\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_practice\\uht\\ue_practicegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gioele\\ue5_2023-24\\ue_practice\\intermediate\\build\\win64\\x64\\ue_practiceeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\gioele\\ue5_2023-24\\ue_practice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue_practice\\definitions.ue_practice.h",
+            "c:\\users\\gioele\\ue5_2023-24\\ue_practice\\source\\ue_practice\\ue_practicegamemode.h",
+            "c:\\users\\gioele\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\users\\gioele\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\users\\gioele\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\users\\gioele\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\gioele\\ue5_2023-24\\ue_practice\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_practice\\uht\\ue_practicegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

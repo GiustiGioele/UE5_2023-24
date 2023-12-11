@@ -11,6 +11,7 @@
     <None Include="..\..\Source\UE_PracticeEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,18 @@
     <Filter Include="Source\UE_Practice">
       <UniqueIdentifier>{EDD4890A-310D-39B4-B4D4-D53BC0586D86}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UE_Practice\AProjectile.cpp">
+      <Filter>Source\UE_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE_Practice\AProjectile.h">
+      <Filter>Source\UE_Practice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE_Practice\Gun.cpp">
+      <Filter>Source\UE_Practice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE_Practice\Gun.h">
+      <Filter>Source\UE_Practice</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UE_Practice\UE_Practice.Build.cs">
       <Filter>Source\UE_Practice</Filter>
     </None>

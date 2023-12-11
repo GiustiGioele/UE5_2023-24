@@ -9,19 +9,59 @@
   <component name="ChangeListManager">
     <list default="true" id="32c8c57a-a9d0-402f-aa7e-77453f027a13" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UE_Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UE_Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Maps/ThirdPersonMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Maps/ThirdPersonMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HV/3UC2LKP7A0AIPLV05RXS29.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdShooterTest/Blueprints/BP_MarkerMan.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdShooterTest/Blueprints/BP_MarkerMan.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/UE_PracticeModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/UE_PracticeModuleRules.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/UE_PracticeModuleRulesManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/UE_PracticeModuleRulesManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/Development/UE_PracticeModuleRules.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/Development/UE_PracticeModuleRules.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/Development/UE_PracticeModuleRules.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/Development/UE_PracticeModuleRules.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/Development/UE_PracticeModuleRules.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/Development/UE_PracticeModuleRules.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/Development/UE_PracticeModuleRules.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/Development/UE_PracticeModuleRules.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/UE_PracticeModuleRules.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/UE_PracticeModuleRules.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/UE_PracticeModuleRules.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/UE_PracticeModuleRules.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/UE_PracticeModuleRules/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE_PracticeEditor/Development/UE_PracticeEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE_PracticeEditor/Development/UE_PracticeEditor.uhtmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/UE_Practice/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/UE_Practice/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/UE_Practice/UHT/UE_Practice.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/UE_Practice/UHT/UE_Practice.init.gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UE_PracticeEditor/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UE_PracticeEditor/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UE_PracticeEditor/Development/Makefile.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UE_PracticeEditor/Development/TargetMetadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UE_PracticeEditor/Development/TargetMetadata.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_Practice/Default.rc2.res.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_Practice/Default.rc2.res.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_Practice/UE_Practice.Shared.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_Practice/UE_Practice.Shared.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_Practice/UnrealEditor-UE_Practice.dll.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_Practice/UnrealEditor-UE_Practice.dll.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_Practice/UnrealEditor-UE_Practice.lib.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE_Practice/UnrealEditor-UE_Practice.lib.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE5.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE_Practice.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE_Practice.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE_Practice.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE_Practice.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE_Practice.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE_Practice.vcxproj.filters" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-36801DEA429E79D47C788B9D3AB1E594/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-DF9C947F40C15C97D3506F91C3CF5686/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-19B4742A410A1B4DACB880AD5F2F8A42/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-84FD427D427E774DC3B22EB18DC1A37D/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-B114122440709BA8A98A55B667D483C1/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-E7EEB77C4C414DC134BDC1AF455F56B9/CrashReportClient.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/UE_Practice-backup-2023.10.25-16.23.24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/UE_Practice-backup-2023.10.25-17.55.16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/UE_Practice-backup-2023.10.27-11.03.17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/UE_Practice-backup-2023.10.27-14.36.23.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/UE_Practice.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/UE_Practice.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/UE_Practice_2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/UE_Practice_2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/UE_Practice/UE_PracticeGameMode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UE_Practice/UE_PracticeGameMode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/UE_Practice/UE_PracticeCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UE_Practice/UE_PracticeCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/UE_Practice/UE_PracticeCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UE_Practice/UE_PracticeCharacter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UE_Practice.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/UE_Practice.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,6 +251,13 @@
       <workItem from="1698417328256" duration="45000" />
       <workItem from="1698417695307" duration="172000" />
       <workItem from="1698418200229" duration="308000" />
+      <workItem from="1701355568850" duration="1978000" />
+      <workItem from="1701358897740" duration="836000" />
+      <workItem from="1701359787198" duration="1000" />
+      <workItem from="1701432051408" duration="416000" />
+      <workItem from="1701432681766" duration="776000" />
+      <workItem from="1701436320357" duration="748000" />
+      <workItem from="1701437274433" duration="116000" />
     </task>
     <servers />
   </component>

@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Gun.h"
 #include "GameFramework/Character.h"
 #include "Logging/LogMacros.h"
 #include "UE_PracticeCharacter.generated.h"
@@ -55,9 +56,13 @@ protected:
 
 	/** Called for looking input */
 	void Look(const FInputActionValue& Value);
-			
+	
+	//** Called for shooting input */
+	UPROPERTY(EditDefaultOnly, Category = "Player")
+	AGun* Gun; //riferimento all'arma
 
 protected:
+	void StartShooting();
 	// APawn interface
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 	

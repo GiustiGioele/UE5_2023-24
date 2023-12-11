@@ -52,6 +52,10 @@ AUE_PracticeCharacter::AUE_PracticeCharacter()
 
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
+	
+	//Inizilazzazione dell'arma
+	Gun = CreateDefaultSubobject<AGun>(TEXT("Gun"));
+	Gun -> AttachComponent(GetMesh(), FAttachmentTransformRules::SnapToTargetIncludingScale,"GunSocket" );
 }
 
 void AUE_PracticeCharacter::BeginPlay()
@@ -86,6 +90,9 @@ void AUE_PracticeCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInp
 
 		// Looking
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &AUE_PracticeCharacter::Look);
+		
+		//Shooting
+		PlayerInputComponent ->BindAction("Shoot" , IE_Pressed, this, &AUE_PracticeCharacter::StartShooting);
 	}
 	else
 	{
@@ -128,3 +135,11 @@ void AUE_PracticeCharacter::Look(const FInputActionValue& Value)
 		AddControllerPitchInput(LookAxisVector.Y);
 	}
 }
+
+// void AUE_PracticeCharacter::StartShooting
+// {
+//     if(Gun)
+//     {
+//       Gun ->Shoot();
+//     }
+// }

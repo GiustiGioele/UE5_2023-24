@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE_Practice.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Gioele\UE5_2023-24\UE_Practice\Intermediate\Build\Win64\x64\UE_PracticeEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Gioele\UE5_2023-24\UE_Practice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Practice\UE_Practice.init.gen.cpp.obj"
+"C:\Users\Gioele\UE5_2023-24\UE_Practice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Practice\UE_PracticeCharacter.gen.cpp.obj"
+"C:\Users\Gioele\UE5_2023-24\UE_Practice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Practice\UE_PracticeGameMode.gen.cpp.obj"
+"C:\Users\Gioele\UE5_2023-24\UE_Practice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Practice\UE_Practice.cpp.obj"
+"C:\Users\Gioele\UE5_2023-24\UE_Practice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Practice\UE_PracticeCharacter.cpp.obj"
+"C:\Users\Gioele\UE5_2023-24\UE_Practice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Practice\UE_PracticeGameMode.cpp.obj"
+"C:\Users\Gioele\UE5_2023-24\UE_Practice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Practice\Default.rc2.res"
+/OUT:"C:\Users\Gioele\UE5_2023-24\UE_Practice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Practice\UnrealEditor-UE_Practice.lib"

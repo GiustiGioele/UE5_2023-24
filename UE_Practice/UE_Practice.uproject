@@ -7,13 +7,16 @@
 		{
 			"Name": "UE_Practice",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
+			"Enabled": false,
 			"TargetAllowList": [
 				"Editor"
 			]
